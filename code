@@ -29,7 +29,7 @@ elif random_number == 9:
 else:
   answer = "Error"
 name = input("What's your name? ")
-print(name + " asks: " + question)
-print("Magic 8 Ball's answer: " + answer)
 print(name + " asks: " + question2)
 print("Magic 8 Ball's answer: %i" %random_lottery_number)
+print(name + " asks: " + question)
+print("Magic 8 Ball's answer: " + answer)
